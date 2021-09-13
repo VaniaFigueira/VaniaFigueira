@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VaniaFigueira
+- 👋 Hi, I’m @VaniaFigueira, I've just embraced a new career in IT
 - 👀 I’m interested in Java, Android, Appian
-- 🌱 I’m currently learning Appian
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Appian (and working)
+- 💞️ I’m looking to collaborate on ... I'm open to challenges
 - 📫 How to reach me vaniaisbelfigueira@gmai.com
 
 <!---
